@@ -14,3 +14,5 @@ bin/
 .vs/
 .vscode/
 Cs_Files/
+copyerUnix
+.gitignore
