@@ -1,0 +1,16 @@
+*.o
+*.out
+*.exe
+
+*.a
+*.so
+*.dll
+
+*.log
+
+build/
+bin/
+
+.vs/
+.vscode/
+Cs_Files/
